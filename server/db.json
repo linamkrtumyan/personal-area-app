@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "firstName": "Arya",
+      "lastName": "Stark",
+      "position": "DB Administrator",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Snow",
+      "position": "DevOps Engineer",
+      "id": 2
+    },
+    {
+      "id": 1664995982853,
+      "firstName": "Sansa",
+      "lastName": "Stark",
+      "position": "HR Recruiter"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$ReoDha9N9WUY9Jju5rqHVegigd3RaKRpONGkFE1tx/Bp0kwkGuQVK",
+      "id": 1
+    }
+  ]
+}
